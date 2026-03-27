@@ -1,4 +1,4 @@
-Unnamed: 0,date,year,month,elevation_ft,monthly_precip_inches,snow_water_equiv_in,elev_ft_NGVD29,volume_acreft,area_acre,area_acre_prior,prior_yr_vol_acft,precip_acreft,TOTAL_INFLOW_cfs_acft,evaporation_acreft
+Unnamed: 0,date,year,month,elevation_ft,monthly_precip_inches,snow_water_equiv_in,elev_ft_NGVD29,volume_acreft,area_acre,area_acre_prior,prior_month_vol_acft,precip_acreft,TOTAL_INFLOW_cfs_acft,evaporation_acreft
 1,1950-02-01,1950,2,4197.4,1.19,,4197.4,13231625.08,879251.73,864498.36,13013628.81,85729.4207,330234.8985,197968.04920000024
 2,1950-03-01,1950,3,4197.9,0.98,,4197.9,13677742.99,905185.46,879251.73,13231625.08,71805.55795,378388.328,4075.975949998945
 3,1950-04-01,1950,4,4198.15,1.29,,4198.15,13905660.5,918138.01,905185.46,13677742.99,97307.43694999999,607916.9645,477306.8914500009
